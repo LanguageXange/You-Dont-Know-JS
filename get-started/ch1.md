@@ -470,3 +470,7 @@ JS is a compiled language, meaning the tools (including the JS engine) process a
 With our language now *defined*, let's start getting to know its ins and outs.
 
 [^specApB]: ECMAScript 2019 Language Specification, Appendix B: Additional ECMAScript Features for Web Browsers, https://www.ecma-international.org/ecma-262/10.0/#sec-additional-ecmascript-features-for-web-browsers (latest as of time of this writing in January 2020)
+
+## Next Chapter: Surveying JS
+* [Chapter 2: Surveying JS](ch2.md)
+
